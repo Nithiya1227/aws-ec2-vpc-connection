@@ -20,7 +20,7 @@ This project forms the **foundation for advanced architectures** such as Load Ba
 
 ## 🧱 Architecture Diagram
 
-![Custom VPC Architecture](screenshots/architecture-vpc.png)
+![Custom VPC Architecture](architecture-vpc.png)
 
 
 ---
