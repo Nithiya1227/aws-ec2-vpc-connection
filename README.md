@@ -55,13 +55,13 @@ This project forms the **foundation for advanced architectures** such as Load Ba
 ## 🧪 Output Verification
 
 ### 🔹 Instance ec2
-![VPC Overview](screenshots/instance-ec2.png)
+![VPC Overview](screenshots/instance-vpc.png)
 
 ### 🔹 security group enable HTTP
-![security group](screenshots/securitygrouo-vpc.png)
+![security group](screenshots/securitygroup-vpc.png)
 
 ### 🔹 EC2 Public IP Output
-![EC2 Output](screenshots/output-vpc.png)
+![EC2 Output](screenshots/output-VPC.png)
 
 ---
 
